@@ -25,21 +25,21 @@ Full Stack Web Application  Elegance Restaurant is a full-stack web application 
       SQL Database
 
 ## 🛠️ Tools & Technologies
-      Spring Boot
-      Spring Data JPA
-      REST APIs
-      React Hooks
-      Axios / Fetch API
-      SQL Database
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+- React Hooks
+- Axios / Fetch API
+- SQL Database
 
 ## 📦 How to Run Locally
-      Clone the repository
-      Start the Spring Boot backend
-      Start the React frontend
-      Access the app in your browser
+1.Clone the repository
+2.Start the Spring Boot backend
+3.Start the React frontend
+4.Access the app in your browser
 
 ## 📌 Future Improvements
-      Authentication & authorization
-      Online payment integration
-      Table reservations
-      Docker support
+- Authentication & authorization
+- Online payment integration
+- Table reservations
+- Docker support
