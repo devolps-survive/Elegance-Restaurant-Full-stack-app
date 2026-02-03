@@ -33,10 +33,10 @@ Full Stack Web Application  Elegance Restaurant is a full-stack web application 
 - SQL Database
 
 ## 📦 How to Run Locally
-1.Clone the repository
-2.Start the Spring Boot backend
-3.Start the React frontend
-4.Access the app in your browser
+1. Clone the repository
+2. Start the Spring Boot backend
+3. Start the React frontend
+4. Access the app in your browser
 
 ## 📌 Future Improvements
 - Authentication & authorization
