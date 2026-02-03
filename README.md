@@ -42,7 +42,7 @@ Full Stack Web Application  Elegance Restaurant is a full-stack web application 
 ## 📸 Screenshots
 
 ![Project Screenshot1](image-1.png)
-![Project Screenshot2](image-5.png)
+![Project Screenshot2](image-2.png)
 ![Project Screenshot3](image-3.png)
 
 ## 📦 How to Run Locally
