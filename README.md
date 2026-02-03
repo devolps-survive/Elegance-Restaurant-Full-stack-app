@@ -10,7 +10,7 @@ Full Stack Web Application  Elegance Restaurant is a full-stack web application 
 - **Database**: SQL (PostgreSQL / MySQL)
 
 ## ✨ Features
-      Browse restaurant menu
+Browse restaurant menu
       Create and manage orders
       Admin dashboard for menu & order management
       RESTful API architecture
