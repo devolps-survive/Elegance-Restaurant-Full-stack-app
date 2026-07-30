@@ -6,7 +6,7 @@ Full Stack Web Application  Elegance Restaurant is a full-stack web application 
 
 ## 🚀 Tech Stack  
 - **Frontend** - React.js 
-- **Backend** - Java Spring Boot (REST APIs)
+- **Backend** - Laveral php (REST APIs)
 - **Database**: SQL (PostgreSQL / MySQL)
 
 ## ✨ Features
